@@ -41,8 +41,9 @@ Benefits:
 ## Technical Approach
 ```
 1. Mainly used prgramminng language is "Python"
-2. ![alt text](<Screenshot 2026-11-25 224343.png>)
 ```
+ ![alt text](<Screenshot 2026-11-25 224343.png>)
+
 ## Feasibility and Viability
 ```
 1. FarmLoop is a technically, financially and operationally feasible solution for a small-scale prototype using accessible open-source technologies. Its multi-farmer matching system, market-value-based exchange and internal credit ledger can be implemented using Python.
